@@ -1,8 +1,4 @@
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
-
 .jumbotron {
   box-sizing: border-box;
   height: 600px;
@@ -21,7 +17,7 @@
 }
 
 .answer:hover {
-  background: pink;
+  background: #76504D;
 }
 
 .answer {
@@ -50,6 +46,6 @@
 }
 
 body {
-  background-color: #DD0506;
+  background-color: #646D8A;
   color: white;
 }
